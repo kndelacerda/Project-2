@@ -21,3 +21,8 @@ Must use a Node and Express Web Server
 * Must have folder structure that meets MVC Paradigm
 
 * Must meet good quality coding standards (indentation, scoping, naming)
+
+
+
+Datasets Repo
+https://github.com/caesar0301/awesome-public-datasets#social-networks
